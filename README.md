@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sristi27" alt="sristi27" /> </p>
 
-- 🌱 I’m currently learning **React Framework**
+- 💻 I am currently pursuing my BTech in Information Technology from Kalyani Government Engineering College.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sristi27](https://github.com/Sristi27)
 
-- 💬 Ask me about **Angular,Web Dev,Data Structures**
+- 💬 Besides working on Web Development,I am also interested in ML.Also,I am a graphics designer and a doodler.
 
 - 📫 How to reach me **sristi2705@gmail.com**
 
