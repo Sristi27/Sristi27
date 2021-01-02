@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sristi27](https://github.com/Sristi27)
 
-- 💬 Besides working on Web Development,I am also interested in ML.Also,I am a graphics designer and a doodler.
+- 💬 Full Stack Deverloper(MEAN / MERN) and a graphics designer/doodler.
 
 - 📫 How to reach me **sristi2705@gmail.com**
 
