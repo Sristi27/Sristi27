@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sristi Chowdhury</h1>
-<h3 align="center"></h3>
+
+<p align="center">
+  
+### Hi 👋, I'm Sristi Chowdhury! 👋
+
+# I am a Web developer and designer from India.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sristi27" alt="sristi27" /> </p>
 
@@ -10,13 +15,12 @@
 - 💬 Full Stack Deverloper(MEAN / MERN) and a graphics designer/doodler.
 
 - 📫 How to reach me **sristi2705@gmail.com**
+- You can also reach out to me on 
+   
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sristi-chowdhury-3660941a5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sristi-chowdhury-3660941a5/" height="30" width="30" /></a>
 
 - 😄 Pronouns: she, her, hers
 <p align="center">
-
-### Hi 👋, I'm Sristi Chowdhury! 👋
-
-# I am a Web developer and designer from India.
 
 ## My Github Stats and top languages!
 
@@ -29,6 +33,4 @@
   
  <table>
    
-   
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sristi-chowdhury-3660941a5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sristi-chowdhury-3660941a5/" height="30" width="30" /></a>
 </p>
