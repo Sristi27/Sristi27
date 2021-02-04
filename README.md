@@ -1,7 +1,7 @@
 
 <p align="center">
   
-### Hi 👋, I'm Sristi Chowdhury! 👋
+### Hi 👋 , I'm Sristi Chowdhury! 
 
 # I am a Web developer and designer from India.
 </p>
