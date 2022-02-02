@@ -16,9 +16,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Trell Website and building my DSA Repository for complete interview preparation 
+- 🔭 I’m currently working with Walmart Ad Tech Team and building my DSA Repository for complete interview preparation 
 
-- 🌱 I’m currently learning Golang and PHP  
+- 🌱 I’m currently learning React , JAVA 
 
 - 👯 I’m looking to collaborate on Web Development projects,any language is welcome!
 
